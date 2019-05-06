@@ -1,7 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Shadows+Into+Light');
+
 body {
   width: 99%;
   height: 900px;
-  background-color: #fc6;
+  background-color: #98ff98;
 }
 
 #top-bar {
@@ -64,5 +66,6 @@ body {
 }
 
 h1 {
-  color: #f30;
+  color: mintcream;
+  font-family: 'Shadows Into Light', cursive;
 }
